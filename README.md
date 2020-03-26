@@ -1,6 +1,6 @@
 # Multiple-Cancer-Type-Prediction-with-TCGA-PanCancer-Atlas-data
 
-(Due to github file size limitation, only files that smaller than 25MB were uploaded)
+## (Due to github file size limitation, only files that smaller than 25MB were uploaded)
 
 In this project, I tried to predict different cancers based on the gene expression data.
 
